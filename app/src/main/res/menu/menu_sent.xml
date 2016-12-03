@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:zpp="http://schemas.android.com/apk/res-auto"
+    tools:context="com.example.android.wifidirect.sent">
+    <item
+        android:id="@+id/delete"
+        android:orderInCategory="100"
+        zpp:showAsAction="never"
+        android:title="Delete History" />
+</menu>
